@@ -6,9 +6,24 @@ navbar_entries:
    # url: blog
 
 project_entries:
-  - title: Ski Report
-    url: https://github.com/Williwawn/skireport
-    desc: Sample website to congregate parse and display weather and ski data in easy to visualize manner.
+  - title: My Github
+    url: https://github.com/Williwawn
+    desc:   
+  _,-""`""-~`)
+(`~_,=========\
+ |---,___.-.__,\
+ |        o     \ ___  _,,,,_     _.--.
+  \      `^`    /`_.-"~      `~-;`     \
+   \_      _  .'                 `,     |
+     |`-                           \'__/ 
+    /                      ,_       \  `'-. 
+   /    .-""~~--.            `"-,   ;_    /
+  |              \               \  | `""`
+   \__.--'`"-.   /_               |'
+              `"`  `~~~---..,     |
+                             \ _.-'`-.
+                              \       \
+                               '.     /
 
 footer_entries:
 
