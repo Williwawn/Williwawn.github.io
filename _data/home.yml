@@ -8,22 +8,7 @@ navbar_entries:
 project_entries:
   - title: My Github
     url: https://github.com/Williwawn
-    desc:   
-  _,-""`""-~`)
-(`~_,=========\
- |---,___.-.__,\
- |        o     \ ___  _,,,,_     _.--.
-  \      `^`    /`_.-"~      `~-;`     \
-   \_      _  .'                 `,     |
-     |`-                           \'__/ 
-    /                      ,_       \  `'-. 
-   /    .-""~~--.            `"-,   ;_    /
-  |              \               \  | `""`
-   \__.--'`"-.   /_               |'
-              `"`  `~~~---..,     |
-                             \ _.-'`-.
-                              \       \
-                               '.     /
+    desc: its time to make the donuts
 
 footer_entries:
 
